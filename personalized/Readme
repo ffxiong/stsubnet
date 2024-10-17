@@ -1,6 +1,4 @@
-this folder constains the processed audio samples by the unified and persoanlized verson of STSubNet
+this folder constains some processed audio samples by the unified and persoanlized verson of STSubNet for interested subjective listening, particularly for target speaker over-suppression and leakage in TSE task.
 
-- 
 
-F. Xiong, Y. Hao, K. Zhou, M. Dong, L. Jiang, X. Li, J. Feng, "Subband Neural Framework for Joint Echo Cancellation, Speech Enhancement and
-Target Speech Extraction in Real-Time Fullband Speech Communication", submitted to ICASSP2025.
+F. Xiong, Y. Hao, K. Zhou, M. Dong, L. Jiang, X. Li, J. Feng, "Subband Neural Framework for Joint Echo Cancellation, Speech Enhancement and Target Speech Extraction in Real-Time Fullband Speech Communication", submitted to ICASSP2025.
